@@ -1,9 +1,7 @@
 const express = require('express')
 const path = require('path')
-//const json2html = require('node-json2html');
 
 const PORT = process.env.PORT || 5000
-//import MiComponent from './src/componennts/MiComponente';
 var cors = require("cors");
 const googleTrends = require('google-trends-api');
 

@@ -1,5 +1,7 @@
 const express = require('express')
 const path = require('path')
+//const json2html = require('node-json2html');
+
 const PORT = process.env.PORT || 5000
 //import MiComponent from './src/componennts/MiComponente';
 var cors = require("cors");
@@ -42,17 +44,21 @@ express()
      
       var salida = [];
       var fecha =Date();
+      
+
       googleTrends.dailyTrends({
               trendDate: fecha,
               hl :'es',
               geo: 'AR'}).then(function(results)
                               {  JSON.parse(results).default.trendingSearchesDays.forEach(s => {
                                           salida.push(s);
-                                          console.log('salida dentro de daily',s['formattedDate']);}
+                                          console.log('salida dentro  de daily',s['trendingSearches']);}
                                 )
                                 //currentComponent.cambiarEstado(salida);
-                                console.log('salida=',salida);
+                                console.log('salid a =',salida);
+                                
                                 //return (salida);
+
                                 res.send(salida);
                                } 
                                ).catch(function(err)

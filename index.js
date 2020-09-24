@@ -39,7 +39,7 @@ express()
   .get('/daily',(req,res) => {
      // res.send('daily.....................'+miapi()+diaria());
       console.log('dentro de get daily :');
-      //diaria();
+     
       var salida = [];
       var fecha =Date();
       googleTrends.dailyTrends({

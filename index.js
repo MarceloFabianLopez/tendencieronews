@@ -43,8 +43,8 @@ express()
       var salida = [];
       var fecha =Date();
       //var date = new Date();
-      fecha.toLocaleTimeString('es-AR', {hour12: false});
-      
+      fecha=fecha.toLocaleString('es-AR', {hour12: false});
+      console.log('hoy es:',fecha);
 
       googleTrends.dailyTrends({
               trendDate: fecha,
@@ -52,10 +52,11 @@ express()
               geo: 'AR'}).then(function(results)
                               {  JSON.parse(results).default.trendingSearchesDays.forEach(s => {
                                           salida.push(s);
-                                          console.log('salida dentro  de daily',s['trendingSearches']);}
+                                        //  console.log('salida dentro  de daily',s['trendingSearches']);
+                                        }
                                 )
                                 //currentComponent.cambiarEstado(salida);
-                                console.log('salid a =',salida);
+                               // console.log('salid a =',salida);
                                 
                                 //return (salida);
 

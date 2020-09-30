@@ -43,12 +43,15 @@ express()
       var salida = [];
       var fecha =Date();
       //var date = new Date();
-      fecha=fecha.toLocaleString('es-AR', {hour12: false});
-      console.log('hoy es:',fecha);
-
+      //fecha=fecha.toLocaleString('es-AR', {hour12: false});
+     // console.log('hoy es:',fecha);
+      //var offset = new Date().getTimezoneOffset();
+      //console.log('offset:',offset);
+//trendDate: fecha,
       googleTrends.dailyTrends({
-              trendDate: fecha,
+              
               hl :'es',
+              timezone: 180,
               geo: 'AR'}).then(function(results)
                               {  JSON.parse(results).default.trendingSearchesDays.forEach(s => {
                                           salida.push(s);
@@ -67,8 +70,6 @@ express()
                                                     res.send('error api');
                                                     }
                                       )
-   
-   
    
     })
 

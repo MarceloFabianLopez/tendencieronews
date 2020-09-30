@@ -42,6 +42,8 @@ express()
      
       var salida = [];
       var fecha =Date();
+      //var date = new Date();
+      fecha.toLocaleTimeString('es-AR', {hour12: false});
       
 
       googleTrends.dailyTrends({

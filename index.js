@@ -5,73 +5,66 @@ const PORT = process.env.PORT || 5000
 var cors = require("cors");
 const googleTrends = require('google-trends-api');
 
-function diaria(){
-    let currentComponent = this;
-    var salida = [];
-    var fecha =Date();
-    googleTrends.dailyTrends({
-            trendDate: fecha,
-            hl :'es',
-            geo: 'AR'}).then(function(results)
-                            {  JSON.parse(results).default.trendingSearchesDays.forEach(s => {
-                                        salida.push(s);
-                                        console.log('salida dentro de daily',s['formattedDate']);}
-                              )
-                              //currentComponent.cambiarEstado(salida);
-                              console.log('salida=',salida);
-                              return (salida);
-                             } 
-                             ).catch(function(err)
-                                                  { console.error('Oh no there was an error', err);
-                                                  }
-                                    )
-    }
 
-function miapi(){
-  return ('resultado mi api');
-}
+
+
 express()
-   .use(cors())
+  .use(cors())
   .use(express.static(path.join(__dirname, 'public')))
   .set('views', path.join(__dirname, 'views'))
   .set('view engine', 'ejs')
   .get('/', (req, res) => res.render('pages/index'))
-  .get('/daily',(req,res) => {
-     // res.send('daily.....................'+miapi()+diaria());
-      console.log('dentro de get daily :');
-     
-      var salida = [];
-      var fecha =Date();
-      //var date = new Date();
-      //fecha=fecha.toLocaleString('es-AR', {hour12: false});
-     // console.log('hoy es:',fecha);
-      //var offset = new Date().getTimezoneOffset();
-      //console.log('offset:',offset);
-//trendDate: fecha,
-      googleTrends.dailyTrends({
-              
-              hl :'es',
-              timezone: 180,
-              geo: 'AR'}).then(function(results)
-                              {  JSON.parse(results).default.trendingSearchesDays.forEach(s => {
-                                          salida.push(s);
-                                        //  console.log('salida dentro  de daily',s['trendingSearches']);
-                                        }
-                                )
-                                //currentComponent.cambiarEstado(salida);
-                               // console.log('salid a =',salida);
-                                
-                                //return (salida);
+  .get('/daily', (req, res) => {
+    var salida = [];
+    var fecha = Date();
 
-                                res.send(salida);
-                               } 
-                               ).catch(function(err)
-                                                    { console.error('Oh no there was an error', err);
-                                                    res.send('error api');
-                                                    }
-                                      )
-   
+    googleTrends.dailyTrends({
+      hl: 'es',
+      timezone: 180,
+      geo: 'AR'
+    }).then(function (results) {
+      JSON.parse(results).default.trendingSearchesDays.forEach(s => {
+        salida.push(s);
+      })
+      res.send(salida);
+    }).catch(function (err) {
+      console.error('Oh no there was an error', err);
+      res.send('error api');
     })
 
+  })
 
-  .listen(PORT, () => console.log(`Listening on ${ PORT }`))
+  
+    .get('/realtime', (req, res) => {
+      let salida=[];
+      console.log("realtime");
+      //res.send('realtime api');
+      googleTrends.realTimeTrends({
+        geo: 'AR',
+        category: 'all',
+      }).then ( function (results){
+            //console.log(results);
+            JSON.parse(results).storySummaries.trendingStories.forEach(s => {
+            salida.push(s);
+            //console.log('s',s);
+          })
+          //salida.map((una,i)  => {
+          //  console.log(una.title);
+           // res.send(una);
+          //})
+        //console.log(salida);
+        res.send(salida);
+        }).catch( function(error) {
+        console.log('error',error);
+        res.send('error api');
+      }
+
+      )
+     }
+     )
+   
+  
+  
+
+.listen(PORT, () => console.log(`Listening on ${ PORT }`))
+

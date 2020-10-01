@@ -1,0 +1,684 @@
+{
+    "featuredStoryIds": [],
+    "trendingStoryIds": ["US_lnk_-oB4DgEwAACDPM_en", "US_lnk_D0ZtDgEwAABj-M_en", "US_lnk_Vn9-DgEwAAApwM_en", "US_lnk_gWfFDQEwAABF2M_en", "US_lnk_BuV_DgEwAAB4WM_en", "US_lnk_QAw7DgEwAAB6sM_en", "US_lnk_8DAfDgEwAADujM_en", "US_lnk_bRNxDgEwAAAdrM_en", "US_lnk_fA1jDgEwAAAesM_en", "US_lnk_xENrDgEwAACu_M_en", "US_lnk_EymGDgEwAACUlM_en", "US_lnk_nI85DgEwAACkMM_en", "US_lnk_E6SGDgEwAACUGM_en", "US_lnk_03sTDgEwAADBxM_en", "US_lnk_7OZfDgEwAACyWM_en", "US_lnk_vFN8DgEwAADB7M_en", "US_lnk_hRGIDgEwAAAMrM_en", "US_lnk_QTCGDgEwAADGjM_en", "US_lnk_qCOIDgEwAAAhnM_en", "US_lnk_NeSDDgEwAAC3WM_en", "US_lnk_MzhlDgEwAABXhM_en", "US_lnk_DdKFDgEwAACJbM_en", "US_lnk_uhhJDgEwAADypM_en", "US_lnk_NggjDgEwAAAUtM_en", "US_lnk_sWyGDgEwAAA20M_en", "US_lnk_8EOCDgEwAABz_M_en", "US_lnk_vmI1DgEwAACK3M_en", "US_lnk_yghnDgEwAACstM_en", "US_lnk_vU1WDgEwAADq8M_en", "US_lnk_Cq6BDgEwAACKEM_en", "US_lnk_MEReDgEwAABv-M_en", "US_lnk_5_9mDgEwAACAQM_en", "US_lnk_Vx9KDgEwAAAcoM_en", "US_lnk_XXk-DgEwAABixM_en", "US_lnk_xoBgDgEwAACnPM_en", "US_lnk_jxZlDgEwAADrqM_en", "US_lnk_qK0bDgEwAACyEM_en", "US_lnk_b7aADgEwAADuCM_en", "US_lnk_F_eGDgEwAACQSM_en", "US_lnk_GD39DQEwAADkgM_en", "US_lnk_JuV_DgEwAABYWM_en", "US_lnk__06EDgEwAAB68M_en", "US_lnk_rZZRDgEwAAD9KM_en", "US_lnk_KM99DgEwAABUcM_en", "US_lnk_mix3DgEwAADskM_en", "US_lnk_jLqEDgEwAAAJBM_en", "US_lnk_x5qBDgEwAABHJM_en", "US_lnk_PjCHDgEwAAC4jM_en", "US_lnk_WVQ0DgEwAABs6M_en", "US_lnk_qYBzDgEwAADbPM_en", "US_lnk_jdf6DQEwAAB2aM_en", "US_lnk_oteFDgEwAAAmaM_en", "US_lnk__dZ7DgEwAACHaM_en", "US_lnk_Pv8dDgEwAAAiQM_en", "US_lnk_rbZ8DgEwAADQCM_en", "US_lnk_Y7w7DgEwAABZAM_en", "US_lnk_mEWFDgEwAAAc-M_en", "US_lnk_WPnDDQEwAACaRM_en", "US_lnk_s_1bDgEwAADpQM_en", "US_lnk_KIeHDgEwAACuOM_en", "US_lnk_EsN8DgEwAABvfM_en", "US_lnk_XIduDgEwAAAzOM_en", "US_lnk_VAx9DgEwAAAosM_en", "US_lnk_uql8DgEwAADHFM_en", "US_lnk_i5qEDgEwAAAOJM_en", "US_lnk_WpRzDgEwAAAoKM_en", "US_lnk__EF0DgEwAACJ_M_en", "US_lnk_FdyBDgEwAACVYM_en", "US_lnk_OGReDgEwAABn2M_en", "US_lnk_jjJRDgEwAADejM_en", "US_lnk_R8ZADgEwAAAGeM_en", "US_lnk_xPyEDgEwAABBQM_en", "US_lnk_Cdl7DgEwAABzZM_en", "US_lnk_NO5sDgEwAABZUM_en", "US_lnk_SwYvDgEwAABluM_en", "US_lnk_ZRp-DgEwAAAapM_en", "US_lnk_XDh4DgEwAAAlhM_en", "US_lnk_el1-DgEwAAAF4M_en", "US_lnk_1wl_DgEwAACptM_en", "US_lnk_T7VuDgEwAAAgCM_en", "US_lnk_5HZ4DgEwAACdyM_en", "US_lnk_rqqGDgEwAAApFM_en", "US_lnk_KFJpDgEwAABA7M_en", "US_lnk_NkJLDgEwAAB8_M_en", "US_lnk_39KEDgEwAABabM_en", "US_lnk_4e9YDgEwAAC4UM_en", "US_lnk_s_J9DgEwAADPTM_en", "US_lnk_TDdxDgEwAAA8iM_en", "US_lnk_w-ODDgEwAABBXM_en", "US_lnk_LH5lDgEwAABIwM_en", "US_lnk_3CpYDgEwAACFlM_en", "US_lnk_Cc51DgEwAAB9cM_en", "US_lnk_53EgDgEwAADGzM_en", "US_lnk_78-BDgEwAABvcM_en", "US_lnk_mQtnDgEwAAD_tM_en", "US_lnk_Bnt0DgEwAABzxM_en", "US_lnk_lRdnDgEwAADzqM_en", "US_lnk_0HxDDgEwAACSwM_en", "US_lnk_6t9_DgEwAACUYM_en", "US_lnk_qxV_DgEwAADVqM_en", "US_lnk_zkk5DgEwAAD29M_en", "US_lnk_g-hADgEwAADCVM_en", "US_lnk_eFuGDgEwAAD_5M_en", "US_lnk_gukHDgEwAACEVM_en", "US_lnk_5i1TDgEwAAC0kM_en", "US_lnk_S-KHDgEwAADNXM_en", "US_lnk_q2NvDgEwAADF3M_en", "US_lnk_D4uDDgEwAACNNM_en", "US_lnk_EbBeDgEwAABODM_en", "US_lnk_pktBDgEwAADm9M_en", "US_lnk_QP9nDgEwAAAmQM_en", "US_lnk_At5_DgEwAAB8YM_en", "US_lnk_dxOFDgEwAADzrM_en", "US_lnk_IoBhDgEwAABCPM_en", "US_lnk_EUB_DgEwAABv_M_en", "US_lnk_7RyCDgEwAABuoM_en", "US_lnk_bn16DgEwAAAVwM_en", "US_lnk_0J9XDgEwAACGIM_en", "US_lnk_uO-FDgEwAAA8UM_en", "US_lnk_RoVbDgEwAAAcOM_en", "US_lnk_Se98DgEwAAA0UM_en", "US_lnk_tRl4DgEwAADMpM_en", "US_lnk_VrklDgEwAAByBM_en", "US_lnk_7bGBDgEwAABtDM_en", "US_lnk_2lVnDgEwAAC86M_en", "US_lnk_agp_DgEwAAAUtM_en", "US_lnk_p6uGDgEwAAAgFM_en", "US_lnk_svNnDgEwAADUTM_en", "US_lnk_dW2FDgEwAADx0M_en", "US_lnk_nU9lDgEwAAD58M_en", "US_lnk_FT9xDgEwAABlgM_en", "US_lnk__8JwDgEwAACOfM_en", "US_lnk_MWZgDgEwAABQ2M_en", "US_lnk_IkF-DgEwAABd_M_en", "US_lnk_FqN0DgEwAABjHM_en", "US_lnk_pMdkDgEwAADBeM_en", "US_lnk_nuJ8DgEwAADjXM_en", "US_lnk_TNlcDgEwAAARZM_en", "US_lnk_2hFmDgEwAAC9rM_en", "US_lnk_5_5bDgEwAAC9QM_en", "US_lnk_NzZiDgEwAABUiM_en", "US_lnk_jjZ8DgEwAADziM_en", "US_lnk_AQRqDgEwAABquM_en", "US_lnk_FF-EDgEwAACR4M_en", "US_lnk_cJd_DgEwAAAOKM_en", "US_lnk_h7h2DgEwAADwBM_en", "US_lnk_pHVQDgEwAAD1yM_en", "US_lnk_f-EsDgEwAABSXM_en", "US_lnk_HHZ8DgEwAABhyM_en", "US_lnk_aaCADgEwAADoHM_en", "US_lnk_RfBkDgEwAAAgTM_en", "US_lnk_qDuBDgEwAAAohM_en", "US_lnk_jDl9DgEwAADwhM_en", "US_lnk_piaBDgEwAAAmmM_en", "US_lnk_jzF_DgEwAADxjM_en", "US_lnk_4LRzDgEwAACSCM_en", "US_lnk_h3KHDgEwAAABzM_en", "US_lnk_i7RRDgEwAADbCM_en", "US_lnk_txRgDgEwAADWqM_en", "US_lnk_DXSBDgEwAACNyM_en", "US_lnk_uHJ-DgEwAADHzM_en", "US_lnk_5WSDDgEwAABn2M_en", "US_lnk_ykd_DgEwAAC0-M_en", "US_lnk_FPwpDgEwAAA8QM_en", "US_lnk_-DttDgEwAACUhM_en", "US_lnk_0gqADgEwAABTtM_en", "US_lnk_yvx2DgEwAAC9QM_en", "US_lnk_x9WBDgEwAABHaM_en", "US_lnk_M2dLDgEwAAB52M_en", "US_lnk_4EV6DgEwAACb-M_en", "US_lnk_34tNDgEwAACTNM_en", "US_lnk_1kI_DgEwAADo_M_en", "US_lnk_GGGCDgEwAACb3M_en", "US_lnk_aW5qDgEwAAAC0M_en", "US_lnk_3A2DDgEwAABesM_en", "US_lnk_94F5DgEwAACPPM_en", "US_lnk_0k6EDgEwAABX8M_en", "US_lnk_FTOFDgEwAACRjM_en", "US_lnk_kBRQDgEwAADBqM_en", "US_lnk_dTdbDgEwAAAviM_en", "US_lnk_z_yEDgEwAABKQM_en", "US_lnk_s498DgEwAADOMM_en", "US_lnk_n6-CDgEwAAAcEM_en", "US_lnk_PSGBDgEwAAC9nM_en", "US_lnk_L3yCDgEwAACswM_en", "US_lnk_23NNDgEwAACXzM_en", "US_lnk_07VrDgEwAAC5CM_en", "US_lnk_2zRwDgEwAACqiM_en", "US_lnk_y96ADgEwAABKYM_en", "US_lnk_-gNgDgEwAACbvM_en", "US_lnk_IN5gDgEwAABBYM_en", "US_lnk_5XOEDgEwAABgzM_en", "US_lnk__xlvDgEwAACRpM_en", "US_lnk_hNx6DgEwAAD_YM_en", "US_lnk_5-5fDgEwAAC5UM_en", "US_lnk_eXtaDgEwAAAixM_en", "US_lnk_bAd-DgEwAAATuM_en", "US_lnk_6xKEDgEwAABurM_en", "US_lnk_ha6CDgEwAAAGEM_en", "US_lnk_1E-FDgEwAABQ8M_en", "US_lnk_UHU4DgEwAABpyM_en", "US_lnk_RYVnDgEwAAAjOM_en", "US_lnk_1x9oDgEwAAC-oM_en", "US_lnk_kc-FDgEwAAAVcM_en", "US_lnk_-COEDgEwAAB9nM_en", "US_lnk_ugN6DgEwAADBvM_en", "US_lnk_NGFeDgEwAABr3M_en", "US_lnk_T916DgEwAAA0YM_en", "US_lnk_8iN4DgEwAACLnM_en", "US_lnk_-c-DDgEwAAB7cM_en", "US_lnk_anF0DgEwAAAfzM_en", "US_lnk_2DN6DgEwAACjjM_en", "US_lnk_nbWCDgEwAAAeCM_en", "US_lnk_jmKIDgEwAAAH3M_en", "US_lnk_sJV8DgEwAADNKM_en", "US_lnk_xEOBDgEwAABE_M_en", "US_lnk_XEFvDgEwAAAy_M_en", "US_lnk_hfd0DgEwAADwSM_en", "US_lnk_Os7qDQEwAADRcM_en", "US_lnk_RGWGDgEwAADD2M_en", "US_lnk_oKOGDgEwAAAnHM_en", "US_lnk_QseEDgEwAADHeM_en", "US_lnk__Gd7DgEwAACG2M_en", "US_lnk_lImEDgEwAAARNM_en", "US_lnk_vNqHDgEwAAA6ZM_en", "US_lnk_2IZsDgEwAAC1OM_en", "US_lnk_felsDgEwAAAQVM_en", "US_lnk_eLl1DgEwAAAMBM_en", "US_lnk_pdGCDgEwAAAmbM_en", "US_lnk_xSF-DgEwAAC6nM_en", "US_lnk_6DE_DgEwAADWjM_en", "US_lnk_UN2ADgEwAADRYM_en", "US_lnk_KWqDDgEwAACr1M_en", "US_lnk_2F6BDgEwAABY4M_en", "US_lnk_uTJ_DgEwAADHjM_en", "US_lnk_FEZ7DgEwAABu-M_en", "US_lnk_Q9xlDgEwAAAnYM_en", "US_lnk_wYBZDgEwAACZPM_en", "US_lnk_JpN-DgEwAABZLM_en", "US_lnk_4gyGDgEwAABlsM_en", "US_lnk_CsJ5DgEwAAByfM_en", "US_lnk_vUJlDgEwAADZ_M_en", "US_lnk_3Pd0DgEwAACpSM_en", "US_lnk_-NJ1DgEwAACMbM_en", "US_lnk_FBZwDgEwAABlqM_en", "US_lnk_szCGDgEwAAA0jM_en", "US_lnk_XzJuDgEwAAAwjM_en", "US_lnk_cNR8DgEwAAANaM_en", "US_lnk_RLB-DgEwAAA7DM_en", "US_lnk_ooV4DgEwAADbOM_en", "US_lnk_SdteDgEwAAAWZM_en", "US_lnk_f1FkDgEwAAAa7M_en", "US_lnk_zul-DgEwAACxVM_en", "US_lnk_Z6V2DgEwAAAQGM_en", "US_lnk_yj1yDgEwAAC5gM_en", "US_lnk_TrdiDgEwAAAtCM_en", "US_lnk__Jt9DgEwAACAJM_en", "US_lnk_aoiADgEwAADrNM_en", "US_lnk_rlJoDgEwAADH7M_en", "US_lnk__q9-DgEwAACBEM_en", "US_lnk_8gyGDgEwAAB1sM_en", "US_lnk_WQp_DgEwAAAntM_en", "US_lnk_4nZhDgEwAACCyM_en", "US_lnk_FeaGDgEwAACSWM_en", "US_lnk_5E53DgEwAACS8M_en", "US_lnk_QGqDDgEwAADC1M_en", "US_lnk_RMB9DgEwAAA4fM_en", "US_lnk_VxBuDgEwAAA4rM_en", "US_lnk_M2FeDgEwAABs3M_en", "US_lnk_xMZmDgEwAACjeM_en", "US_lnk_kyVxDgEwAADjmM_en", "US_lnk_x2Z4DgEwAAC-2M_en", "US_lnk_kzl9DgEwAADvhM_en", "US_lnk_hFRkDgEwAADh6M_en", "US_lnk_E4JuDgEwAAB8PM_en", "US_lnk_7FuIDgEwAABl5M_en", "US_lnk_5mFTDgEwAAC03M_en", "US_lnk_f6V2DgEwAAAIGM_en", "US_lnk_j0h_DgEwAADx9M_en", "US_lnk_SbxdDgEwAAAVAM_en", "US_lnk_3BNBDgEwAACcrM_en", "US_lnk_5FhiDgEwAACH5M_en", "US_lnk_oCNqDgEwAADLnM_en", "US_lnk_Tx1sDgEwAAAioM_en", "US_lnk_d7NADgEwAAA2DM_en", "US_lnk_SUZvDgEwAAAn-M_en", "US_lnk_WcVmDgEwAAA-eM_en", "US_lnk_NKR6DgEwAABPGM_en", "US_lnk_SwCIDgEwAADCvM_en", "US_lnk_y-x9DgEwAAC3UM_en", "US_lnk_492GDgEwAABkYM_en", "US_lnk_kUdnDgEwAAD3-M_en", "US_lnk_0jdRDgEwAACCiM_en", "US_lnk_HV59DgEwAABh4M_en", "US_lnk_gvN7DgEwAAD4TM_en", "US_lnk_wJJ3DgEwAAC2LM_en", "US_lnk_E37yDQEwAADgwM_en", "US_lnk_7wxwDgEwAACesM_en", "US_lnk_JRVvDgEwAABLqM_en", "US_lnk_VPaBDgEwAADUSM_en"],
+    "storySummaries": {
+        "featuredStories": [],
+        "trendingStories": [{
+                    "image": {
+                        "newsUrl": "https://theshortfuse.sbnation.com/2020/10/1/21496899/liverpool-arsenal-game-time-tv-channels-how-to-watch-carabao-cup-online-streaming",
+                        "source": "The Short Fuse",
+                        "imgUrl": "//t0.gstatic.com/images?q=tbn:ANd9GcTbNAm1QyRj5_GSP-aGxdx9_VNXG0c6sRvxA_LQmUiA1pwnLIRWpkdnOhw14CQYmZ7DpV-K99WiRlE"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_D0ZtDgEwAABj-M_en&category=all&geo=US#US_lnk_D0ZtDgEwAABj-M_en",
+                    "articles": [{
+                        "articleTitle": "Arsenal at Liverpool Carabao Cup 4th round preview and match thread",
+                        "url": "https://theshortfuse.sbnation.com/2020/10/1/21496899/liverpool-arsenal-game-time-tv-channels-how-to-watch-carabao-cup-online-streaming",
+                        "source": "The Short Fuse",
+                        "time": "2 hours ago",
+                        "snippet": "If it seems like Arsenal are playing Liverpool a lot, it's because they are. The Gunners and the Reds will play each other for the fourth time in (basically) two months today in the Carabao Cup 4th round. The two clubs met at this stage of the competition last ..."
+                    }, {
+                        "articleTitle": "Liverpool vs Arsenal live: Sead Kolasinac starts amid transfer rumours but no William Saliba",
+                        "url": "https://www.football.london/arsenal-fc/fixtures-results/liverpool-vs-arsenal-live-kick-19032226",
+                        "source": "Football.London",
+                        "time": "51 minutes ago",
+                        "snippet": "It's round two of the Reds vs the Gunners, this time in the League Cup."
+                    }, {
+                        "articleTitle": "Liverpool vs Arsenal LIVE: Confirmed team news, TV info and Carabao Cup updates stream",
+                        "url": "https://www.mirror.co.uk/sport/football/match-reports/liverpool-vs-arsenal-live-score-22777487",
+                        "source": "Mirror.co.uk",
+                        "time": "26 minutes ago",
+                        "snippet": "Liverpool face Arsenal at Anfield with a place in the quarter-final at stake, just three days after their Premier League clash at the same ground. Kickoff is at 7.45pm."
+                    }, {
+                        "articleTitle": "What channel is Liverpool v Arsenal Carabao Cup match on? Kick off time, live stream and latest team news",
+                        "url": "https://www.radiotimes.com/news/sport/2020-10-01/liverpool-arsenal-watch-live-kick-off-time-tv-channel-carabao-cup-2020-21/",
+                        "source": "Radio Times",
+                        "time": "1 hour ago",
+                        "snippet": "Liverpool face Arsenal in the Carabao Cup fourth round at Anfield live on Sky Sports this week."
+                    }, {
+                        "articleTitle": "Liverpool vs Arsenal LIVE: Team news, line-ups and more ahead of Carabao Cup tie tonight",
+                        "url": "https://www.independent.co.uk/sport/football/live/liverpool-vs-arsenal-live-stream-score-carabao-cup-latest-updates-result-b743002.html",
+                        "source": "The Independent",
+                        "time": "1 hour ago",
+                        "snippet": "Follow all the action as Jurgen Klopp's champions welcome the Gunners to Anfield."
+                    }, {
+                        "articleTitle": "Liverpool FC vs Arsenal LIVE! Latest score, goal updates, team news, TV and Carabao Cup match stream today",
+                        "url": "https://www.standard.co.uk/sport/football/liverpool-fc-vs-arsenal-live-stream-online-carabao-cup-2020-score-team-news-prediction-tv-a4561081.html",
+                        "source": "Evening Standard",
+                        "time": "1 hour ago",
+                        "snippet": "Liverpool vs Arsenal LIVE! Jurgen Klopp and Mikel Arteta test their wits against each other for the second time this week in a thrilling Carabao Cup fourth round clash."
+                    }, {
+                        "articleTitle": "Liverpool vs Arsenal LIVE - team news, TV channel, kick off time, score and streams from Carabao Cup",
+                        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-arsenal-live-stream-score-19033470",
+                        "source": "Liverpool Echo",
+                        "time": "1 hour ago",
+                        "snippet": "Liverpool host Arsenal at Anfield for the second match running , but this time in the Carabao Cup. Join the ECHO for score updates and analysis as the Reds look to reach the quarter-finals."
+                    }, {
+                        "articleTitle": "Liverpool vs Arsenal LIVE: Confirmed team news and Carabao Cup updates from Anfield",
+                        "url": "https://www.express.co.uk/sport/football/1342479/Liverpool-vs-Arsenal-LIVE-confirmed-team-news-Carabao-Cup-updates-Anfield",
+                        "source": "Daily Express",
+                        "time": "1 hour ago",
+                        "snippet": "Liverpool host Premier League rivals Arsenal in the fourth round of the Carabao Cup at Anfield tonight. Express Sport brings you live updates from the clash."
+                    }, {
+                        "articleTitle": "LIVE: Liverpool vs Arsenal - Carabao Cup - Mohamed Salah and Virgil van Dijk set for shock starts for Jurgen Klopp's ...",
+                        "url": "https://www.dailymail.co.uk/sport/football/article-8794319/Liverpool-vs-Arsenal-Carabao-Cup-Live-score-lineups-updates-plus-fifth-round-draw.html",
+                        "source": "Daily Mail",
+                        "time": "14 minutes ago",
+                        "snippet": "Liverpool and Arsenal tussle at Anfield for the second time in four days as they meet in the fourth round of the Carabao Cup. Follow all the Anfield action as it happens."
+                    }, {
+                        "articleTitle": "LIVE: Liverpool vs Arsenal – Follow the Carabao Cup fourth-round clash",
+                        "url": "https://lfcglobe.co.uk/live-liverpool-vs-arsenal-follow-the-carabao-cup-fourth-round-clash/",
+                        "source": "LFC Globe",
+                        "time": "2 hours ago",
+                        "snippet": "All the build-up, updates and live commentary as Liverpool welcome Arsenal to Anfield in the Carabao Cup on Thursday night."
+                    }],
+                    "idsForDedup": ["/m/012dbw /m/02_tc", "/m/012dbw /m/0463_p5", "/m/012dbw /m/04ltf", "/m/012dbw /m/0xbm", "/m/02_tc /m/0463_p5", "/m/02_tc /m/04ltf", "/m/02_tc /m/0xbm", "/m/0463_p5 /m/04ltf", "/m/0463_p5 /m/0xbm", "/m/04ltf /m/0xbm"],
+                    "id": "US_lnk_D0ZtDgEwAABj-M_en",
+                    "title": "Liverpool F.C., Arsenal F.C., EFL Cup, Premier League, Jürgen Klopp",
+                    "entityNames": ["Liverpool F.C.", "Arsenal F.C.", "EFL Cup", "Premier League", "Jürgen Klopp"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://www.fishstripes.com/2020/10/1/21495931/marlins-cubs-lineups-game-preview-predictions-sixto-sanchez-yu-darvish",
+                        "source": "Fish Stripes",
+                        "imgUrl": "//t3.gstatic.com/images?q=tbn:ANd9GcT4n5B7njnKHLWByMRBjtbyV2gzrj3OzucsVSeH_Y7aLlcDPX5DwI9Ejh6SsVfIgluss_S3g-ON_eU"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_QAw7DgEwAAB6sM_en&category=all&geo=US#US_lnk_QAw7DgEwAAB6sM_en",
+                    "articles": [{
+                        "articleTitle": "Marlins vs. Cubs: WCS Game 2—POSTPONED",
+                        "url": "https://www.fishstripes.com/2020/10/1/21495931/marlins-cubs-lineups-game-preview-predictions-sixto-sanchez-yu-darvish",
+                        "source": "Fish Stripes",
+                        "time": "1 hour ago",
+                        "snippet": "Sixto Sánchez and Yu Darvish were scheduled to start Game 2 of the Wild Card Series at Wrigley Field in Chicago."
+                    }, {
+                        "articleTitle": "Cubs' bats go cold in Game 1 loss to the Marlins",
+                        "url": "https://chicago.suntimes.com/cubs/2020/9/30/21496267/cubs-marlins-nl-wild-card-game-1-playoffs",
+                        "source": "Chicago Sun-Times",
+                        "time": "3 hours ago",
+                        "snippet": "Ian Happ's solo home run in the fifth inning accounted for the Cubs' only run in their 5-1 loss Wednesday."
+                    }, {
+                        "articleTitle": "Marlins-Cubs Game 2 postponed: NL wild card showdown expected to resume on Friday in Chicago",
+                        "url": "https://www.cbssports.com/mlb/news/marlins-cubs-game-2-postponed-nl-wild-card-showdown-expected-to-resume-on-friday-in-chicago/",
+                        "source": "CBS sports.com",
+                        "time": "1 hour ago",
+                        "snippet": "The day off in the middle of the series could alter things for either team."
+                    }, {
+                        "articleTitle": "The view of Cubs/Marlins game 1 from a Wrigley rooftop",
+                        "url": "https://www.bleedcubbieblue.com/2020/10/1/21496741/cubs-marlins-game-1-wrigley-rooftop-view",
+                        "source": "bleedcubbieblue.com",
+                        "time": "5 hours ago",
+                        "snippet": "It was different, to be sure."
+                    }, {
+                        "articleTitle": "Report: Cubs-Marlins Game 2 postponed due to weather",
+                        "url": "https://dknation.draftkings.com/2020/10/1/21497234/cubs-vs-marlins-game-status-postponed-due-to-weather-rain-thunderstorms-makeup-date",
+                        "source": "DraftKings Nation",
+                        "time": "1 hour ago",
+                        "snippet": "There is the potential for some bad weather in Chicago Thursday afternoon. We break down the latest news."
+                    }, {
+                        "articleTitle": "Cubs, Marlins Game 2 postponed due to weather",
+                        "url": "https://wgntv.com/sports/cubs-marlins-game-2-postponed-due-to-weather/",
+                        "source": "WGN-TV",
+                        "time": "1 hour ago",
+                        "snippet": "CHICAGO – The Cubs will play at least another day. The North Siders elimination game with the Marlins has been postponed due to rain in the forecast. “Today's scheduled Game 2 of the Wild Card Series between the host Chicago Cubs and the Miami ..."
+                    }, {
+                        "articleTitle": "Game 2 of Marlins-Cubs wild-card series postponed",
+                        "url": "https://sports.yahoo.com/game-2-marlins-cubs-wild-card-series-postponed-173227537--mlb.html",
+                        "source": "Yahoo Sports",
+                        "time": "59 minutes ago",
+                        "snippet": "CHICAGO (AP) -- Game 2 of the National League wild-card series between the Chicago Cubs and Miami Marlins was postponed because of a forecast for rain on Thursday."
+                    }, {
+                        "articleTitle": "Game 2 of the Cubs' wild-card series against the Marlins has been postponed to Friday",
+                        "url": "https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-miami-marlins-20201001-jd62rox4tbfsllqn2r4uetpko4-story.html",
+                        "source": "Chicago Tribune",
+                        "time": "1 hour ago",
+                        "snippet": "Game 2 of the National League wild-card series between the Chicago Cubs and Miami Marlins has been postponed because of inclement weather forecasted later Thursday at Wrigley Field."
+                    }, {
+                        "articleTitle": "Can Yu Darvish come to the rescue? 4 things to look for in Game 2 of the Cubs-Marlins wild-card series.",
+                        "url": "https://www.chicagotribune.com/sports/cubs/ct-cb-chicago-cubs-yu-darvish-miami-marlins-20201001-ezuaokz54zclhfydndhroxp3fa-story.html",
+                        "source": "Chicago Tribune",
+                        "time": "4 hours ago",
+                        "snippet": "The Chicago Cubs were leading the Miami Marlins late in Game 1 of their first-round playoff series Wednesday before disaster struck at Wrigley Field. The Marlins put up five runs in the seventh inning and held on for a 5-1 victory. Advertisement. The Cubs ..."
+                    }, {
+                        "articleTitle": "Starling Marte available for Miami Marlins after hand injury, but not likely to bat",
+                        "url": "https://www.espn.com/mlb/story/_/id/30015930/starling-marte-available-miami-marlins-hand-injury-not-likely-bat",
+                        "source": "ESPN",
+                        "time": "1 hour ago",
+                        "snippet": "Marlins manager Don Mattingly said center fielder Starling Marte is unlikely to bat but will be available for Game 2 vs. the Cubs, which has been moved to Friday after Thursday's game was postponed."
+                    }],
+                    "idsForDedup": ["/m/01yjl /m/02__x", "/m/01yjl /m/05f31y5", "/m/01yjl /m/0h69c", "/m/02__x /m/05f31y5", "/m/02__x /m/0h69c", "/m/05f31y5 /m/0h69c"],
+                    "id": "US_lnk_QAw7DgEwAAB6sM_en",
+                    "title": "Chicago Cubs, Miami Marlins, National League, Major League Baseball postseason",
+                    "entityNames": ["Chicago Cubs", "Miami Marlins", "National League", "Major League Baseball postseason"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://thesportsrush.com/sev-vs-let-fantasy-predictionsevilla-vs-levante-for-best-fantasy-picks-for-la-liga-2020-21-match/",
+                        "source": "The Sportsrush",
+                        "imgUrl": "//t3.gstatic.com/images?q=tbn:ANd9GcSek5j9cnC5sf1eB-Bk5OWApsXFgniBhXbZZ3P-akiPGjuHFXLuYdBjBxqjxUgl7RAydQUyL02qzEc"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_bRNxDgEwAAAdrM_en&category=all&geo=US#US_lnk_bRNxDgEwAAAdrM_en",
+                    "articles": [{
+                        "articleTitle": "SEV Vs LET Fantasy Prediction:Sevilla Vs Levante for Best Fantasy Picks for La Liga 2020-21 Match",
+                        "url": "https://thesportsrush.com/sev-vs-let-fantasy-predictionsevilla-vs-levante-for-best-fantasy-picks-for-la-liga-2020-21-match/",
+                        "source": "The Sportsrush",
+                        "time": "5 hours ago",
+                        "snippet": "Description: SEV Vs LET Dream11 Team Probable Playing 11 And Match Report: Sevilla set to bring back their usual names when they take on Levante today. With only newly promoted Cadiz up infront of them in their league opener, it was only rightful to opt ..."
+                    }, {
+                        "articleTitle": "SEV Vs LET Dream11 Prediction, Team, Top Picks, Preview, LaLiga Live",
+                        "url": "https://www.republicworld.com/sports-news/football-news/sev-vs-let-dream11-prediction-team-top-picks-la-liga-live.html",
+                        "source": "Republic World",
+                        "time": "11 hours ago",
+                        "snippet": "Sevilla plays hosts to Levante in a LaLiga fixture at the Ramon Sanchez-Pizjuan this week. Here is our SEV vs LET Dream11 prediction & SEV vs LET Dream11 team."
+                    }, {
+                        "articleTitle": "La Liga LIVE: Sevilla vs Levante Head to Head Statistics, Laliga LIVE Streaming Link, teams stats up, results",
+                        "url": "https://www.insidesport.co/la-liga-live-sevilla-vs-levante-head-to-head-statistics-laliga-live-streaming-link-teams-stats-up-results/",
+                        "source": "InsideSport",
+                        "time": "9 hours ago",
+                        "snippet": "La Liga LIVE between Sevilla vs Levante Here some details related Sevilla vs Levante teams news, broadcast details and Timing in India."
+                    }, {
+                        "articleTitle": "Sevilla v Levante live streaming free",
+                        "url": "https://thetimeshub.in/sevilla-v-levante-live-streaming-free/6891/",
+                        "source": "The Times Hub",
+                        "time": "15 hours ago",
+                        "snippet": "Sevilla v Levante Seville – Levante. Prediction for the Spanish Championship match (October 1, 2020). We offer a forecast for the Spanish championship match, in which Sevilla will host Levante on October 1. Will the owners be able to defeat the “frogs”?"
+                    }, {
+                        "articleTitle": "Seville-Levante: schedule, TV and how and where to watch",
+                        "url": "https://pledgetimes.com/seville-levante-schedule-tv-and-how-and-where-to-watch/",
+                        "source": "Pledge Times",
+                        "time": "16 hours ago",
+                        "snippet": "Sevilla and Levante meet this Thursday at the Ramón Sánchez-Pizjuán premiere this season with the shared objective of endorsing their good starts in LaLiga."
+                    }],
+                    "idsForDedup": ["/g/11f5lxwl_v /m/01k9cc", "/g/11f5lxwl_v /m/01njml", "/g/11f5lxwl_v /m/09gqx", "/m/01k9cc /m/01njml", "/m/01k9cc /m/09gqx", "/m/01njml /m/09gqx"],
+                    "id": "US_lnk_bRNxDgEwAAAdrM_en",
+                    "title": "Sevilla FC, Levante UD, La Liga, Dream11",
+                    "entityNames": ["Sevilla FC", "Levante UD", "La Liga", "Dream11"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://heavy.com/sports/sergino-dest-explains-why-he-chose-barcelona/",
+                        "source": "Heavy.com",
+                        "imgUrl": "//t0.gstatic.com/images?q=tbn:ANd9GcTjdqhSBAs9BNB0kPSk9SQ1V3vvmwxFddAa8pNLw6NfOQ1NHnH0kKgj1tyZoJkTGwBdGMvDORIjPb0"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_fA1jDgEwAAAesM_en&category=all&geo=US#US_lnk_fA1jDgEwAAAesM_en",
+                    "articles": [{
+                        "articleTitle": "Sergino Dest Explains Why He Chose Barcelona Over Bayern Munich",
+                        "url": "https://heavy.com/sports/sergino-dest-explains-why-he-chose-barcelona/",
+                        "source": "Heavy.com",
+                        "time": "4 hours ago",
+                        "snippet": "The 19-year-old sealed his move to the Camp Nou on Thursday."
+                    }, {
+                        "articleTitle": "Barcelona signs American teenager Sergino Dest",
+                        "url": "https://www.usatoday.com/story/sports/soccer/europe/2020/10/01/barcelona-signs-usmnt-fullback-sergino-dest-ajax/5879085002/",
+                        "source": "USA TODAY",
+                        "time": "2 hours ago",
+                        "snippet": "FC Barcelona has signed U.S. international Sergino Dest from AFC Ajax, the Spanish club confirmed Thursday. Dest joins on a five-year, €21 million agreement ($24.6 million), with a possible €5 million in add-on variables (up to $30.5 million dollars total)."
+                    }, {
+                        "articleTitle": "Sergiño Dest Signs For Barcelona In $30 Million Deal As Ronald Koeman Finally Gets His Man",
+                        "url": "https://www.forbes.com/sites/jamesnalton/2020/10/01/sergio-dest-signs-for-barcelona-as-ronald-koeman-finally-gets-his-man/",
+                        "source": "Forbes",
+                        "time": "5 hours ago",
+                        "snippet": "The 19-year-old USMNT star joins the club from Ajax for $24.5 million with the potential for around $6 million in add-ons."
+                    }, {
+                        "articleTitle": "Sergino Dest transfer: Barcelona announce signing of rising USMNT star from Ajax",
+                        "url": "https://www.cbssports.com/soccer/news/sergino-dest-transfer-barcelona-announce-signing-of-rising-usmnt-star-from-ajax/",
+                        "source": "CBSSports.com",
+                        "time": "5 hours ago",
+                        "snippet": "The young defender is joining Lionel Messi in Spain."
+                    }, {
+                        "articleTitle": "USMNT star Dest completes €21m Barcelona move as Catalans beat Bayern to Ajax full-back",
+                        "url": "https://www.goal.com/en-us/news/barcelona-beat-bayern-to-21m-dest-signing/115002kqijonn1x5tvb7d8kied",
+                        "source": "Goal.com",
+                        "time": "6 hours ago",
+                        "snippet": "Barcelona have pipped Bayern Munich to the signing of Ajax star Sergino Dest, the Catalan outfit have confirmed."
+                    }, {
+                        "articleTitle": "Official: Sergino Dest signs with FC Barcelona",
+                        "url": "https://www.bavarianfootballworks.com/2020/10/1/21496752/bayern-munich-sergino-dest-signs-with-fc-barcelona-chris-richards-benjamin-pavard-brazzo",
+                        "source": "Bavarian Football Works",
+                        "time": "1 hour ago",
+                        "snippet": "Bayern Munich's courtship of Sergino Dest did not end well for the Bavarians."
+                    }, {
+                        "articleTitle": "Barcelona sign USMNT defender Sergino Dest from Ajax on long-term deal",
+                        "url": "https://www.espn.com/soccer/soccer-transfers/story/4190907/barcelona-sign-usmnt-defender-sergino-dest-from-ajax-on-long-term-deal",
+                        "source": "ESPN",
+                        "time": "6 hours ago",
+                        "snippet": "Sergino Dest joins Barca on a five-year deal, with Ajax receiving a fee of around €21 million plus a potential €5m in add-ons."
+                    }, {
+                        "articleTitle": "Sergino Dest becomes first US player signed by Barcelona's top squad",
+                        "url": "https://indianexpress.com/article/sports/football/sergino-dest-becomes-first-us-player-signed-by-barcelonas-top-squad-6663670/",
+                        "source": "The Indian Express",
+                        "time": "4 hours ago",
+                        "snippet": "Barcelona paid Ajax 21 million euros ($24.7 million) plus an additional 5 million euros in add-ons to acquire Sergiño Dest."
+                    }, {
+                        "articleTitle": "Barcelona complete €21m signing of Ajax full-back Dest",
+                        "url": "https://www.rte.ie/sport/soccer/2020/1001/1168748-barcelona-complete-21m-signing-of-ajax-full-back-dest/",
+                        "source": "RTE.ie",
+                        "time": "5 hours ago",
+                        "snippet": "Barcelona have completed the signing of United States full back Sergino Dest from Ajax Amsterdam for €21m. Barca's statement added that Dest, 19, had agreed to sign a five-year contract with a release clause of €400m. Dest, who broke into Ajax's first team ..."
+                    }, {
+                        "articleTitle": "Barcelona Signs US Defender Sergiño Dest From Ajax",
+                        "url": "https://www.si.com/soccer/2020/10/01/sergino-dest-barcelona-transfer-ajax-usmnt",
+                        "source": "Sports Illustrated",
+                        "time": "6 hours ago",
+                        "snippet": "Dest leaves Ajax for Barcelona, which won the U.S. international's signature after a transfer battle with Bayern Munich."
+                    }],
+                    "idsForDedup": ["/m/03ctcm /m/0c1q0", "/m/03ctcm /m/0hvgt", "/m/03ctcm /m/0y54", "/m/0c1q0 /m/0hvgt", "/m/0c1q0 /m/0y54", "/m/0hvgt /m/0y54"],
+                    "id": "US_lnk_fA1jDgEwAAAesM_en",
+                    "title": "FC Barcelona, AFC Ajax, Ronald Koeman, UEFA Champions League",
+                    "entityNames": ["FC Barcelona", "AFC Ajax", "Ronald Koeman", "UEFA Champions League"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://wsrw.iheart.com/content/2020-10-01-ohsaa-football-playoff-brackets/",
+                        "source": "KFI AM 640",
+                        "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcQ4PqiCvy7nZJhoKjzIPVtWrRb0njXTbZwlj1V7CJkuVTWT8qdGUF-EDRsWh42PsI6eQSjW1iX-eRI"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_EymGDgEwAACUlM_en&category=all&geo=US#US_lnk_EymGDgEwAACUlM_en",
+                    "articles": [{
+                        "articleTitle": "OHSAA Football Playoff Brackets",
+                        "url": "https://wsrw.iheart.com/content/2020-10-01-ohsaa-football-playoff-brackets/",
+                        "source": "KFI AM 640",
+                        "time": "1 hour ago",
+                        "snippet": "Due to the COVID-19 pandemic, the Ohio High School Athletic Association is treating football postseason playoffs more like other sports, with any team wanting to play, getting a place in the playoffs. Coaches of schools assigned to the respective regions have ..."
+                    }, {
+                        "articleTitle": "OHSAA football tournament Division I brackets released",
+                        "url": "https://www.cincinnati.com/story/sports/high-school/ohio-high-school/2020/10/01/2020-ohsaa-football-tournament-seedings-match-ups-announced-thursday/5878986002/",
+                        "source": "Cincinnati.com",
+                        "time": "1 hour ago",
+                        "snippet": "The Ohio High School Athletic Association 2020 football tournament brackets were released Thursday. Playoffs begin Oct. 9."
+                    }, {
+                        "articleTitle": "Four undefeated Cincinnati-area football teams earned No. 1 seeds in OHSAA regional tournaments",
+                        "url": "https://www.wcpo.com/sports/high-school-sports/four-undefeated-cincinnati-area-football-teams-earned-no-1-seeds-in-ohsaa-regional-tournaments",
+                        "source": "WCPO",
+                        "time": "52 minutes ago",
+                        "snippet": "Lakota West, Winton Woods, Clinton-Massie and Roger Bacon earned No. 1 seeds in their respective OHSAA regional football tournaments Thursday afternoon."
+                    }],
+                    "idsForDedup": ["/m/086qs6 /m/0jxrg"],
+                    "id": "US_lnk_EymGDgEwAACUlM_en",
+                    "title": "Ohio High School Athletic Association, Playoffs",
+                    "entityNames": ["Ohio High School Athletic Association", "Playoffs"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://www.engadget.com/super-smash-bros-ultimate-dlc-fighter-steve-minecraft-145258285.html",
+                        "source": "Engadget",
+                        "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcQ_JCB-LqvetpEoi9i5hWUhv0T_OjEl7q9xI0Ryk-MS0785S0Wp0CgnvHCuee9o637iP3IGBjrgWFc"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_nI85DgEwAACkMM_en&category=all&geo=US#US_lnk_nI85DgEwAACkMM_en",
+                    "articles": [{
+                        "articleTitle": "The next 'Super Smash Bros. Ultimate' fighter is Steve from 'Minecraft'",
+                        "url": "https://www.engadget.com/super-smash-bros-ultimate-dlc-fighter-steve-minecraft-145258285.html",
+                        "source": "Engadget",
+                        "time": "3 hours ago",
+                        "snippet": "You can find out all about his fighting style in a second stream on Saturday."
+                    }, {
+                        "articleTitle": "Nintendo Reveals Minecraft Is Coming To Super Smash Bros. Ultimate",
+                        "url": "https://bleedingcool.com/games/nintendo-reveals-minecraft-is-coming-to-super-smash-bros-ultimate/",
+                        "source": "Bleeding Cool News",
+                        "time": "2 hours ago",
+                        "snippet": "Nintendo threw another shocker at Super Smash Bros. Ultimate fans today as it was revealed Minecraft is coming to the game. This morning the company teased a teaser for what would be the next character added to the game, and they did a fantastic job of ..."
+                    }, {
+                        "articleTitle": "Twitter Crashes And Reacts To Super Smash Bros. Ultimate's Minecraft Steve Reveal",
+                        "url": "https://www.gamespot.com/articles/twitter-crashes-and-reacts-to-super-smash-bros-ultimates-minecraft-steve-reveal/1100-6482817/",
+                        "source": "GameSpot",
+                        "time": "1 hour ago",
+                        "snippet": "The news of Minecraft's hero coming to Super Smash Bros. appears to have broken Twitter."
+                    }, {
+                        "articleTitle": "Bringing 'Minecraft' Fighters Into 'Super Smash Bros. Ultimate' Is Surprisingly Challenging",
+                        "url": "https://collider.com/minecraft-steve-super-smash-bros-ultimate-new-character/",
+                        "source": "Collider.com",
+                        "time": "1 hour ago",
+                        "snippet": "Turns out that Sakurai & Co will have to revamp the existing levels of Super Smash Bros. Ultimate in order to bring in Minecraft's blocky fighters."
+                    }, {
+                        "articleTitle": "Minecraft's Steve and Alex coming to Super Smash Bros. Ultimate in Nintendo-Microsoft crossover",
+                        "url": "https://www.geekwire.com/2020/minecrafts-steve-alex-coming-super-smash-bros-ultimate-nintendo-microsoft-crossover/",
+                        "source": "GeekWire",
+                        "time": "3 hours ago",
+                        "snippet": "The next downloadable character for Super Smash Bros. Ultimate will be the protagonist from Microsoft's Minecraft, Nintendo announced Thursday morning."
+                    }, {
+                        "articleTitle": "Super Smash Bros Ultimate's next DLC fighters are Steve and Alex from Minecraft",
+                        "url": "https://www.slashgear.com/super-smash-bros-ultimates-next-dlc-fighters-are-steve-and-alex-from-minecraft-01640755/",
+                        "source": "SlashGear",
+                        "time": "3 hours ago",
+                        "snippet": "As promised, today Nintendo and Sora Ltd. unveiled the next DLC for Super Smash Bros. Ultimate, and it's safe to say the reveal was a surprise to everyone."
+                    }, {
+                        "articleTitle": "Steve of 'Minecraft' Is The Next 'Super Smash Bros. Ultimate' DLC Fighter",
+                        "url": "https://www.ibtimes.com/steve-minecraft-next-super-smash-bros-ultimate-dlc-fighter-3055293",
+                        "source": "International Business Times",
+                        "time": "35 minutes ago",
+                        "snippet": "Steve, the pickaxe-wielding base character from Mojang Studios' sandbox game Minecraft, is the next DLC to grace the long list of “Super Smash Bros. Ultimate” fighters following Arm's Min-Min. Prior to Steve coming to “Super Smash,” it was previously ..."
+                    }, {
+                        "articleTitle": "Minecraft and Super Smash Bros. finally unite as Steve and Alex join the fight",
+                        "url": "https://www.syfy.com/syfywire/minecraft-super-smash-bros-unite-steve-alex",
+                        "source": "SYFY WIRE",
+                        "time": "2 hours ago",
+                        "snippet": "The latest expansion pass character to the beloved Nintendo fighting game is from an equally beloved series: Minecraft."
+                    }, {
+                        "articleTitle": "SSBU Steve and Alex Images Shared",
+                        "url": "https://www.siliconera.com/ssbu-steve-and-alex-images-shared/",
+                        "source": "Siliconera",
+                        "time": "3 hours ago",
+                        "snippet": "Now that Nintendo announced the Minecraft Super Smash Bros Ultimate DLC, there are updates to help provide a little more context regarding what to expect. For example, the official website has been updated with some new pictures showing off Steve, the ..."
+                    }, {
+                        "articleTitle": "Super Smash Bros Fans Are Confused by Steve",
+                        "url": "https://www.cbr.com/super-smash-bros-ultimate-minecraft-steve-confused-fans/",
+                        "source": "CBR",
+                        "time": "1 hour ago",
+                        "snippet": "Steve was announced as the latest inclusion in Super Smash Bros Ultimate, which has left some Smash fans confused and Minecraft devotees ecstatic."
+                    }],
+                    "idsForDedup": ["/g/11f50xjdb8 /m/03mg0nl", "/g/11f50xjdb8 /m/04mq9_", "/g/11f50xjdb8 /m/059wk", "/g/11f50xjdb8 /m/09v6kpg", "/m/03mg0nl /m/04mq9_", "/m/03mg0nl /m/059wk", "/m/03mg0nl /m/09v6kpg", "/m/04mq9_ /m/059wk", "/m/04mq9_ /m/09v6kpg", "/m/059wk /m/09v6kpg"],
+                    "id": "US_lnk_nI85DgEwAACkMM_en",
+                    "title": "Super Smash Bros. Ultimate, Nintendo, Minecraft, Downloadable content, Masahiro Sakurai",
+                    "entityNames": ["Super Smash Bros. Ultimate", "Nintendo", "Minecraft", "Downloadable content", "Masahiro Sakurai"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://www.tmz.com/2020/10/01/kyrie-irving-shades-lebron-james-best-option-every-team-joining-kevin-durant/",
+                        "source": "TMZ",
+                        "imgUrl": "//t2.gstatic.com/images?q=tbn:ANd9GcQF1mv8qC70JZN223t2lslJXLnm0hV6RXf25K699XGfj2ws_75Ypbd2Q7NXzyK_md9ghgdLw5fkSKQ"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_E6SGDgEwAACUGM_en&category=all&geo=US#US_lnk_E6SGDgEwAACUGM_en",
+                    "articles": [{
+                        "articleTitle": "'I Was Best Option On Every Team'",
+                        "url": "https://www.tmz.com/2020/10/01/kyrie-irving-shades-lebron-james-best-option-every-team-joining-kevin-durant/",
+                        "source": "TMZ",
+                        "time": "23 minutes ago",
+                        "snippet": "Kyrie Irving says he's never trusted his old teammates with hitting clutch baskets ... admitting he's always "
+                        felt like I was the best option " until he joined Kevin Durant in Brooklyn."
+                    }, {
+                        "articleTitle": "LeBron Fans Are Not Happy With Kyrie Irving's Latest Comment",
+                        "url": "https://thespun.com/nba/brooklyn-nets/lebron-fans-are-not-happy-with-kyrie-irvings-latest-comment",
+                        "source": "The Spun",
+                        "time": "1 hour ago",
+                        "snippet": "Kyrie Irving isn't playing in this year's NBA Finals, but the All-Star guard might be the talk of the league for the next few days due to his latest comments. During an appearance on 'The Etcs Podcast,' Irving spoke about his future with Kevin Durant in Brooklyn."
+                    }, {
+                        "articleTitle": "Kevin Durant's 'The ETC w/KD' Podcast Premiered with Kyrie Irving",
+                        "url": "https://respect-mag.com/2020/10/kevin-durants-the-etc-w-kd-podcast-premiered-with-kyrie-irving/",
+                        "source": "RESPECT.",
+                        "time": "1 hour ago",
+                        "snippet": "Apple Link: https://apple.co/2HH5bo8. Thirty Five Ventures – the company co-founded by two-time NBA champion Kevin Durant and his business partner Rich Kleiman that incorporates the duo's business entities across sports, tech, media, philanthropy – and ..."
+                    }, {
+                        "articleTitle": "Kevin Durant podcast: Kyrie Irving responds to 'the disruptor' label",
+                        "url": "https://netswire.usatoday.com/2020/10/01/kevin-durant-podcast-kyrie-irving-responds-to-the-disruptor-label/",
+                        "source": "Nets Wire",
+                        "time": "18 minutes ago",
+                        "snippet": "Labeled "
+                        the disruptor " of the NBA's plans for the Disney bubble, Kyrie Irving finally responded to the criticism on Kevin Durant's podcast."
+                    }, {
+                        "articleTitle": "Kyrie Irving on Steve Nash Hire: 'I Don't Really See' Nets Having a Head Coach",
+                        "url": "https://bleacherreport.com/articles/2911588-kyrie-irving-on-steve-nash-hire-i-dont-really-see-nets-having-a-head-coach",
+                        "source": "Bleacher Report",
+                        "time": "35 minutes ago",
+                        "snippet": "Steve Nash was hired as the head coach of the Brooklyn Nets on Sept. 3, but Kyrie Irving has said he doesn't see Nash—or anyone—in that role..."
+                    }, {
+                        "articleTitle": "Kyrie Irving goes full galaxy brain on Steve Nash hire",
+                        "url": "https://clutchpoints.com/nets-news-kyrie-irving-goes-full-galaxy-brain-on-steve-nash-hire/",
+                        "source": "ClutchPoints",
+                        "time": "27 minutes ago",
+                        "snippet": "It was just almost a month ago when it was announced that Steve Nash would be the new head coach of the Brooklyn Nets. Now Kyrie Irving..."
+                    }, {
+                        "articleTitle": "Kyrie Irving's latest comments might irk some of his former teammates",
+                        "url": "https://sports.yahoo.com/kyrie-irvings-latest-comments-might-173203423.html",
+                        "source": "Yahoo Sports",
+                        "time": "13 minutes ago",
+                        "snippet": "This may surprise you, but Kyrie Irving's hot take during a podcast with Kevin Durant may rub some of his former teammates the wrong way."
+                    }, {
+                        "articleTitle": "Brooklyn Nets PG Kyrie Irving takes subtle dig at LeBron James",
+                        "url": "https://elitesportsny.com/2020/10/01/brooklyn-nets-pg-kyrie-irving-takes-subtle-dig-at-lebron-james/",
+                        "source": "Elite Sports NY",
+                        "time": "26 minutes ago",
+                        "snippet": "Kyrie Irving's take on late-game situations with Kevin Durant the Brooklyn Nets contains a subtle jab at LeBron James."
+                    }, {
+                        "articleTitle": "Kyrie Irving takes vicious shot at LeBron James and his ability to deliver in the clutch",
+                        "url": "https://cavaliersnation.com/2020/10/01/kyrie-irving-takes-vicious-shot-at-lebron-james-and-his-ability-to-deliver-in-the-clutch/",
+                        "source": "Cavaliers Nation",
+                        "time": "42 minutes ago",
+                        "snippet": "In a discussion about taking the last shot in a game, former Cleveland Cavaliers guard Kyrie Irving offered high praise to Kevin Durant and seemingly took a shot at LeBron James."
+                    }, {
+                        "articleTitle": "Kyrie Irving Takes Indirect Shot At LeBron James While Praising KD",
+                        "url": "https://www.hotnewhiphop.com/kyrie-irving-takes-indirect-shot-at-lebron-james-while-praising-kd-news.118846.html",
+                        "source": "HotNewHipHop",
+                        "time": "47 minutes ago",
+                        "snippet": "Kyrie Irving recently spoke about how he finally feels like he's on a team with a clutch shooter. Kyrie Irving has played with some incredible players throug..."
+                    }],
+                    "idsForDedup": ["/m/01jz6d /m/01yqrk", "/m/01jz6d /m/02md_2", "/m/01jz6d /m/0ch52p4", "/m/01jz6d /m/0gxrc1", "/m/01jz6d /m/0jm3b", "/m/01jz6d /m/0jm7n", "/m/01yqrk /m/02md_2", "/m/01yqrk /m/0ch52p4", "/m/01yqrk /m/0gxrc1", "/m/01yqrk /m/0jm3b", "/m/01yqrk /m/0jm7n", "/m/02md_2 /m/0ch52p4", "/m/02md_2 /m/0gxrc1", "/m/02md_2 /m/0jm3b", "/m/02md_2 /m/0jm7n", "/m/0ch52p4 /m/0gxrc1", "/m/0ch52p4 /m/0jm3b", "/m/0ch52p4 /m/0jm7n", "/m/0gxrc1 /m/0jm3b", "/m/0gxrc1 /m/0jm7n", "/m/0jm3b /m/0jm7n"],
+                    "id": "US_lnk_E6SGDgEwAACUGM_en",
+                    "title": "Kyrie Irving, Kevin Durant, Brooklyn Nets, LeBron James, Cleveland Cavaliers, Steve Nash, Head coach",
+                    "entityNames": ["Kyrie Irving", "Kevin Durant", "Brooklyn Nets", "LeBron James", "Cleveland Cavaliers", "Steve Nash", "Head coach"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://www.goal.com/en-us/news/messi-v-ronaldo-and-the-winners-and-losers-of-the-champions/19p5ezikaiqb21fv9yrfdwzmgh",
+                        "source": "Goal.com",
+                        "imgUrl": "//t3.gstatic.com/images?q=tbn:ANd9GcTM7RRCxw8da6s9khldP7MHMZ6DUopyW1ngV2j23zFgltGveF1MwkDa5U_zQzPhdWH7iNQXXLUxk0I"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_03sTDgEwAADBxM_en&category=all&geo=US#US_lnk_03sTDgEwAADBxM_en",
+                    "articles": [{
+                        "articleTitle": "Messi vs Ronaldo and the winners and losers of the Champions League group stage draw",
+                        "url": "https://www.goal.com/en-us/news/messi-v-ronaldo-and-the-winners-and-losers-of-the-champions/19p5ezikaiqb21fv9yrfdwzmgh",
+                        "source": "Goal.com",
+                        "time": "53 minutes ago",
+                        "snippet": "Cristiano Ronaldo and Lionel Messi have shared the world's biggest individual honours between them for the best part of a decade-and-a-half. Now very much in the later stages of their awesome respective careers, they come face to face in the Champions ..."
+                    }, {
+                        "articleTitle": "Robert Lewandowski And Pernille Harder Named As Champions League Best",
+                        "url": "https://www.forbes.com/sites/bobbymcmahon/2020/10/01/robert-lewandowski-and-pernille-harder-named-as-the-champions-league-best/",
+                        "source": "Forbes",
+                        "time": "1 hour ago",
+                        "snippet": "Lewandowski and Harder scoop the top awards but there 10 others handed out by UEFA today. All the award winners and the voting."
+                    }, {
+                        "articleTitle": "Lewandowski named UEFA Player of the Year as Bayern Munich dominate awards",
+                        "url": "https://www.goal.com/en-us/news/lewandowski-uefa-player-of-the-year-bayern-munich-awards/bouax1wk3ay51cp3cpcmclxbw",
+                        "source": "Goal.com",
+                        "time": "1 hour ago",
+                        "snippet": "Robert Lewandowski was named UEFA's Men's Player of the Year on Thursday as Champions League winners Bayern Munich dominated the men's awards."
+                    }, {
+                        "articleTitle": "Bayern Munich draw Atletico Madrid, Salzburg, and Lokomotiv Moscow in the Champions League group stage",
+                        "url": "https://www.bavarianfootballworks.com/2020/10/1/21496930/bayern-munich-draw-atletico-madrid-salzburg-moscow-champions-league-group-stage-luis-suarez-muller",
+                        "source": "Bavarian Football Works",
+                        "time": "1 hour ago",
+                        "snippet": "The UCL champs were drawn in Group A for the 2020/21 season."
+                    }, {
+                        "articleTitle": "Champions League 2020-21: Teams, groups, fixtures, results & everything you need to know",
+                        "url": "https://www.goal.com/en-us/news/champions-league-2020-21-teams-groups-fixtures-results/b6ol8ke6atrn1tuk4tfcevurr",
+                        "source": "Goal.com",
+                        "time": "2 hours ago",
+                        "snippet": "The Champions League has returned for another season as the 2020-21 edition of UEFA's premier club competition gets under way."
+                    }, {
+                        "articleTitle": "Barcelona's Champions League Draw Sees Messi Face Ronaldo",
+                        "url": "https://heavy.com/sports/barcelonas-champions-league-draw-sees-messi-face-ronaldo/",
+                        "source": "Heavy.com",
+                        "time": "1 hour ago",
+                        "snippet": "Ronald Koeman's side have discovered who they will play in the group stages."
+                    }, {
+                        "articleTitle": "Ronaldo's Juventus gets Messi's Barcelona in CL group stage",
+                        "url": "https://www.houstonchronicle.com/sports/article/Ronaldo-s-Juventus-gets-Messi-s-Barcelona-in-CL-15612923.php",
+                        "source": "Houston Chronicle",
+                        "time": "44 minutes ago",
+                        "snippet": "GENEVA (AP) — Cristiano Ronaldo and Lionel Messi will face each other in the Champions League group stage for the first time — and fans could be allowed back in to watch. Messi's Barcelona was drawn from the pot of second-seeded teams Thursday into ..."
+                    }, {
+                        "articleTitle": "Cristiano Ronaldo pitted against Lionel Messi in Champions League group stage draw",
+                        "url": "https://edition.cnn.com/2020/10/01/football/champions-league-group-stage-draw-spt-intl/index.html",
+                        "source": "CNN International",
+                        "time": "1 hour ago",
+                        "snippet": "Cristiano Ronaldo and Lionel Messi will face each other in this season's Champions League group stage after the draw was announced on Thursday."
+                    }, {
+                        "articleTitle": "Champions League group stage: Barcelona paired with Juventus, Man United face PSG & draw in full",
+                        "url": "https://www.goal.com/en-us/news/champions-league-group-stage-barcelona-paired-with-juventus/eb0jorqwpmpr1oobi9jtfn42b",
+                        "source": "Goal.com",
+                        "time": "2 hours ago",
+                        "snippet": "Barcelona will face Juventus in the group stage of the Champions League after they were paired together in Group G in the draw, which took place in Geneva on Thursday."
+                    }, {
+                        "articleTitle": "Messi vs. Ronaldo and More Highlights and Predictions After the Champions League Draw",
+                        "url": "https://www.si.com/soccer/2020/10/01/champions-league-draw-groups-predictions-ronaldo-messi",
+                        "source": "Sports Illustrated",
+                        "time": "31 minutes ago",
+                        "snippet": "The groups are set for the 2020-21 UEFA Champions League. Here's who we see going through to the knockout stage."
+                    }],
+                    "idsForDedup": ["/m/04ltf /m/050fh", "/m/04ltf /m/0c1q0", "/m/050fh /m/0c1q0"],
+                    "id": "US_lnk_03sTDgEwAADBxM_en",
+                    "title": "UEFA Champions League, Manchester United F.C., Liverpool F.C.",
+                    "entityNames": ["UEFA Champions League", "Manchester United F.C.", "Liverpool F.C."]
+                }, {
+                    "image": {
+                        "newsUrl": "https://www.standard.co.uk/sport/football/celta-vigo-vs-fc-barcelona-live-stream-online-laliga-2020-score-team-news-prediction-tv-a4561286.html",
+                        "source": "Evening Standard",
+                        "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcQ4xpiEkvqExAD27R0e3BfjX_WhbPDOOJOluothXYUNA7eVapVVaxeIehqo04dfO3DdqNdivTmW-dQ"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_7OZfDgEwAACyWM_en&category=all&geo=US#US_lnk_7OZfDgEwAACyWM_en",
+                    "articles": [{
+                        "articleTitle": "Celta Vigo vs FC Barcelona LIVE! Latest team news, lineups, prediction, TV, and LaLiga match stream today",
+                        "url": "https://www.standard.co.uk/sport/football/celta-vigo-vs-fc-barcelona-live-stream-online-laliga-2020-score-team-news-prediction-tv-a4561286.html",
+                        "source": "Evening Standard",
+                        "time": "54 minutes ago",
+                        "snippet": "Celta Vigo vs Barcelona - LIVE! Barcelona will look to make it back-to-back wins at the start of the new LaLiga season when they travel to Celta Vigo on Thursday night. Following a turbulent summer dominated by Lionel Messi's transfer saga, the Ronald ..."
+                    }, {
+                        "articleTitle": "FC Barcelona Versus Celta Vigo Preview, Team News And Starting Lineup",
+                        "url": "https://www.forbes.com/sites/tomsanderson/2020/10/01/fc-barcelona-versus-celta-vigo-preview-team-news-and-starting-lineup/",
+                        "source": "Forbes",
+                        "time": "9 hours ago",
+                        "snippet": "An away date with Celta Vigo is considered Ronald Koeman's first major test on the road for FC Barcelona, considering that until now, the new head coach has only managed his team from the comfort of the Estadi Johan Cruyff or Camp Nou."
+                    }, {
+                        "articleTitle": "Barcelona vs. Celta Vigo: La Liga live stream, starting lineups, TV channel, how to watch online, start time, odds",
+                        "url": "https://ftw.usatoday.com/2020/10/barcelona-vs-celta-vigo-la-liga-live-stream-starting-lineups-tv-channel-how-to-watch-online-start-time-odds",
+                        "source": "For The Win",
+                        "time": "5 hours ago",
+                        "snippet": "Barcelona will face Celta Vigo on Thursday afternoon in La Liga, stream all your La Liga action right here."
+                    }, {
+                        "articleTitle": "Celta Vigo vs Barcelona live stream: Lineups, Kickoff time, TV channel, how to watch La Liga online",
+                        "url": "https://www.barcablaugranes.com/2020/10/1/21496473/celta-vigo-barcelona-live-stream-lineups-kickoff-time-tv-channel-watch-la-liga-online",
+                        "source": "Barca Blaugranes",
+                        "time": "4 hours ago",
+                        "snippet": "WELCOME TO THE ESTADIO DE BALAÍDOS! The beautiful home of Celta Vigo is the site of a big La Liga match between the hosts and Barcelona, who come into this one looking to build on a strong win last weekend and also looking to improve their away ..."
+                    }, {
+                        "articleTitle": "Celta Vigo vs Barcelona FREE: Live stream, TV channel, team news and kick-off time for La Liga clash TONIGHT",
+                        "url": "https://www.thesun.co.uk/sport/football/12800544/celta-vigo-barcelona-live-stream-free-tv-channel-kick-off-time-teams-la-liga/",
+                        "source": "The Sun",
+                        "time": "4 hours ago",
+                        "snippet": "BARCELONA face Celta Vigo as they look to continue their strong start to the La Liga season. They will be hoping to continue in the form that saw that them brush aside Villarreal 4-0 on the weekend. Barca have had a good start to the season. 1. Barca have ..."
+                    }, {
+                        "articleTitle": "FC Barcelona vs. Celta Vigo: Live stream, start time, TV channel, how to watch La Liga 2020 (Thurs., Oct. 1)",
+                        "url": "https://www.masslive.com/sports/2020/10/fc-barcelona-vs-celta-vigo-live-stream-start-time-tv-channel-how-to-watch-la-liga-2020-thurs-oct-1.html",
+                        "source": "masslive.com",
+                        "time": "4 hours ago",
+                        "snippet": "FC Barcelona will plays its second game of the 2020-21 La Liga season on Thursday when it battles Celta Vigo. Barcelona won its opening match of the campaign this past Sunday with a convincing 4-0 win over Villarreal to earn new manager Ronald ..."
+                    }, {
+                        "articleTitle": "Barcelona Start Off New Season With A Stunning Win",
+                        "url": "https://sportsaldente.com/barcelona-start-off-new-season-with-a-stunning-win/",
+                        "source": "Sports Al Dente",
+                        "time": "1 hour ago",
+                        "snippet": "Barcelona played their first match of the new season on 27 September against Villarreal. It was their opening game for La Liga 2020/21 and..."
+                    }, {
+                        "articleTitle": "CEV Vs BAR Fantasy Prediction: Celta Vigo Vs Barcelona Best Fantasy Team for La Liga 2020-21",
+                        "url": "https://thesportsrush.com/cev-vs-bar-fantasy-prediction-celta-vigo-vs-barcelona-best-fantasy-team-for-la-liga-2020-21/",
+                        "source": "The Sportsrush",
+                        "time": "2 hours ago",
+                        "snippet": "CEV Vs BAR Fantasy Team Probable Playing 11 And Match Report: Barcelona's first test this season awaits them today when they go visiting Celta Vigo at their bastion."
+                    }, {
+                        "articleTitle": "Barcelona coach Koeman confident ahead of 'tough' Celta Vigo tie",
+                        "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-coach-koeman-confident-ahead-of-tough-celta-vigo-tie/articleshow/78427558.cms",
+                        "source": "Times of India",
+                        "time": "6 hours ago",
+                        "snippet": "Football News: Barcelona head coach Roland Koeman is aware of the challenges when his team takes on a tough Celta Vigo side in an away encounter on Thursday. But th."
+                    }, {
+                        "articleTitle": "CEV vs BAR Dream11 Team Prediction La Liga, Celta Vigo vs Barcelona FC Playing XI, Football Fantasy Tips",
+                        "url": "https://www.news18.com/news/sports/cev-vs-bar-dream11-team-prediction-la-liga-celta-vigo-vs-barcelona-fc-playing-xi-football-fantasy-tips-2925207.html",
+                        "source": "News18",
+                        "time": "6 hours ago",
+                        "snippet": "The next scheduled fixture between Celta Vigo and Barcelona FC will take place on October 2. Celta Vigo vs Barcelona FC will be played at the Estadio Municipal de Balaidos. Celta Vigo has managed to score five points off three matches, while Barcelona ..."
+                    }],
+                    "idsForDedup": ["/m/0266sb_ /m/06qjgc", "/m/0266sb_ /m/09gqx", "/m/0266sb_ /m/0hvgt", "/m/06qjgc /m/09gqx", "/m/06qjgc /m/0hvgt", "/m/09gqx /m/0hvgt"],
+                    "id": "US_lnk_7OZfDgEwAACyWM_en",
+                    "title": "FC Barcelona, Celta de Vigo, La Liga, Lionel Messi",
+                    "entityNames": ["FC Barcelona", "Celta de Vigo", "La Liga", "Lionel Messi"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://bulinews.com/news/6235/rb-leipzig-make-late-decision-yussuf-poulsen-for-schalke-clash",
+                        "source": "Bulinews.com",
+                        "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcQ0TQ0f99-kAJy6Flvp-CtuqiJ_P7YyDTt_awV8zl0TGqCY6gUryxRV5f5i2dbeYpuNC_u7NaoK8y0"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_vFN8DgEwAADB7M_en&category=all&geo=US#US_lnk_vFN8DgEwAADB7M_en",
+                    "articles": [{
+                        "articleTitle": "RB Leipzig to make late decision on Yussuf Poulsen for Schalke clash",
+                        "url": "https://bulinews.com/news/6235/rb-leipzig-make-late-decision-yussuf-poulsen-for-schalke-clash",
+                        "source": "Bulinews.com",
+                        "time": "4 hours ago",
+                        "snippet": "RB Leipzig have provided an injury update on Yussuf Poulsen ahead of their Bundesliga clash with Schalke 04 on Saturday."
+                    }, {
+                        "articleTitle": "RB Leipzig vs Schalke Head to Head",
+                        "url": "http://www.sportingpedia.com/2020/10/01/rb-leipzig-vs-schalke-preview-tips-and-odds-2/",
+                        "source": "Sporting Pedia",
+                        "time": "8 hours ago",
+                        "snippet": "Last game between the teams: 2020-02-22 Bundesliga: Schalke – RB Leipzig 0:5; Marcel Sabitzer 1′, Timo Werner 61′, Martin Hinteregger 68′, Angelino 80′, Emil Forsberg 89′ Last game at this venue: 2019-09-28 Bundesliga: RB Leipzig – Schalke ..."
+                    }, {
+                        "articleTitle": "Why a Schalke 04 and RB Leipzig man is backing Southwick FC campaign",
+                        "url": "https://www.worthingherald.co.uk/sport/football/why-schalke-04-and-rb-leipzig-man-backing-southwick-fc-campaign-2989182",
+                        "source": "Worthing Herald",
+                        "time": "8 hours ago",
+                        "snippet": "The new community-owned Southwick 1882 FC continues to make steady progress, both on and off the field - with help from a big name in German football."
+                    }],
+                    "idsForDedup": ["/m/024_ql /m/037169", "/m/024_ql /m/065zf3p", "/m/024_ql /m/06z573", "/m/037169 /m/065zf3p", "/m/037169 /m/06z573", "/m/065zf3p /m/06z573"],
+                    "id": "US_lnk_vFN8DgEwAADB7M_en",
+                    "title": "FC Schalke 04, RB Leipzig, Bundesliga, Red Bull Arena",
+                    "entityNames": ["FC Schalke 04", "RB Leipzig", "Bundesliga", "Red Bull Arena"]
+                }, {
+                    "image": {
+                        "newsUrl": "https://www.cbssports.com/soccer/news/champions-league-draw-group-stage-live-updates-as-uefa-awards-are-handed-out-and-32-clubs-learn-path/live/",
+                        "source": "CBSSports.com",
+                        "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcSaFYezN2hUcB4wsdr82kyaFzt5GH6ji_18wCFbLQ1TeJXox1XDvVSA5FemB8PaO-eA4o6of84fWz8"
+                    },
+                    "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_QTCGDgEwAADGjM_en&category=all&geo=US#US_lnk_QTCGDgEwAADGjM_en",
+                    "articles": [{
+                                "articleTitle": "UEFA Champions League draw results: Messi vs. Ronaldo as Barcelona get Juventus; Manchester United to face PSG",
+                                "url": "https://www.cbssports.com/soccer/news/champions-league-draw-group-stage-live-updates-as-uefa-awards-are-handed-out-and-32-clubs-learn-path/live/",
+                                "source": "CBSSports.com",
+                                "time": "3 hours ago",
+                                "snippet": "The group stage draw gave us some tasty matchups, including Lionel Messi's Barca vs. Cristiano Ronaldo's Juve."
+                            }, {
+                                "articleTitle": "Messi vs Ronaldo in Champions League group stage as Barca draw Juve",
+                                "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/messi-vs-ronaldo-in-champions-league-group-stage-as-barca-draw-juve/articleshow/78433102.cms",
+                                "source": "Times of India",
+                                "time": "2 hours ago",
+                                "snippet": "Football News: Lionel Messi and Cristiano Ronaldo will come up against each other in this season's Champions League after Barcelona and Juventus were placed in the s."
+                            }, {
+                                "articleTitle": "Manchester United draw PSG in Champions League group stage, Lionel Messi to face Cristiano Ronaldo",
+                                "url": "https://www.eurosport.co.uk/football/champions-league/2020-2021/manchester-united-draw-psg-in-champions-league-group-stage-lionel-messi-to-face-cristiano-ronaldo_sto7918242/story.shtml",
+                                "source": "Eurosport.co.uk",
+                                "time": "2 hours ago",
+                                "snippet": "Liverpool, Manchester City, Manchester United and Chelsea discovered their fate in the Uefa Champions League draw in Geneva."
+                            }, {
+                                "articleTitle": "Zlatan Ibrahimovic has a Witty Take on Lionel Messi vs Cristiano Ronaldo Debate",
+                                "url": "https://www.latestly.com/quickly/sports/football/zlatan-ibrahimovic-has-a-witty-take-on-lionel-messi-vs-cristiano-ronaldo-debate-2061332.html",
+                                "source": "LatestLY",
+                                "time": "4 hours ago",
+                                "snippet": "Read Latest Football News Quickly Here | Zlatan Ibrahimovic has always been very witty when it comes to giving his opinion about any given topic. Now the AC Milan striker has thrown in his words about the ongoing debate between Cristiano Ronaldo vs ..."
+                            }, {
+                                "articleTitle": "September Player of the Month: Cristiano Ronaldo and Mohamed Salah nominated for European award",
+                                "url": "https://sport360.com/article/football/344743/september-player-of-the-month-cristiano-ronaldo-and-mohamed-salah-nominated-for-european-award",
+                                "source": "Sport360",
+                                "time": "3 hours ago",
+                                "snippet": "September saw a staggered return to consciousness for European football after a brief slumber and it was a month filled with epic drama. Key protagonists came to the stage, and in some leagues were even greeted by the welcome return of a live audience."
+                            }, {
+                                "articleTitle": "Messi v Ronaldo in Champions League group stage, Man Utd to face PSG",
+                                "url": "https://au.sports.yahoo.com/messi-v-ronaldo-champions-league-161656301.html",
+                                "source": "Yahoo Sport Australia",
+                                "time": "2 hours ago",
+                                "snippet": "Lionel Messi and Cristiano Ronaldo will come up against each other in this season's Champions League after Barcelona and Juventus were placed in the same group in Thursday's draw."
+                            }, {
+                                "articleTitle": "Rui Costa hails Juventus star Cristiano Ronaldo: They'll be talking about him in 300 years",
+                                "url": "https://www.tribalfootball.com/articles/rui-costa-hails-juventus-star-cristiano-ronaldo-they-ll-be-talking-about-him-in-300-years-4342516",
+                                "source": "Tribal Football",
+                                "time": "5 hours ago",
+                                "snippet": "Rui Costa is adamant football fans will talking about Ronaldo " in 300 years ' time". He declared: "The surprise will be when Cristiano stops playing like that and scoring fabulous goals. In 300 years we will continue talking about Ronaldo, he is unique: he has ..."},{"articleTitle":"Ronaldo'
+                                s Juventus gets Messi 's Barcelona in CL group stage","url":"https://ca.sports.yahoo.com/news/ronaldos-juventus-gets-messis-barcelona-155541144.html","source":"Yahoo Canada Sports","time":"2 hours ago","snippet":"GENEVA — Cristiano Ronaldo and Lionel Messi will face each other in the Champions League group stage for the first time.Messi'
+                                s Barcelona was drawn from the pot of second - seeded teams Thursday into the group where Ronaldo 's Juventus team was ..."},{"articleTitle":"Messi, Ronaldo to renew Champions League rivalry","url":"https://uk.sports.yahoo.com/news/messi-ronaldo-renew-champions-league-164016687.html","source":"Yahoo Eurosport UK","time":"1 hour ago","snippet":"GENEVA (Reuters) - Lionel Messi and Cristiano Ronaldo will renew their Champions League rivalry after their teams, Barcelona and Juventus, were drawn together on Thursday in the group stage. Barcelona and Juventus, who met in the 2015 final, were ..."},{"articleTitle":"Cristiano Ronaldo Sweats it Out With Team Juventus Ahead of Serie A 2020-21 Game Against Napoli (Watch Video ...","url":"https://www.zee5.com/zeekannada/cristiano-ronaldo-sweats-it-out-with-team-juventus-ahead-of-serie-a-2020-21-game-against-napoli-watch-video-see-pics/","source":"Zee Kannada","time":"11 hours ago","snippet":"Cristiano Ronaldo has been in red hot form since the start of this year. In order to emerge from the draw in their last match, Cristiano Ronaldo was seen sweating it out with the team Juventus. Ronaldo had scored a brace in the game against Roma and thus ..."}],"idsForDedup":["/m/02wj26 /m/02xt6q","/m/02wj26 /m/03zv9","/m/02wj26 /m/045xx","/m/02wj26 /m/05pgj9","/m/02wj26 /m/0c1q0","/m/02wj26 /m/0h1c1_r","/m/02wj26 /m/0ll3j1m","/m/02wj26 /m/0plsktv","/m/02wj26 /m/0ytc","/m/02xt6q /m/03zv9","/m/02xt6q /m/045xx","/m/02xt6q /m/05pgj9","/m/02xt6q /m/0c1q0","/m/02xt6q /m/0h1c1_r","/m/02xt6q /m/0ll3j1m","/m/02xt6q /m/0plsktv","/m/02xt6q /m/0ytc","/m/03zv9 /m/045xx","/m/03zv9 /m/05pgj9","/m/03zv9 /m/0c1q0","/m/03zv9 /m/0h1c1_r","/m/03zv9 /m/0ll3j1m","/m/03zv9 /m/0plsktv","/m/03zv9 /m/0ytc","/m/045xx /m/05pgj9","/m/045xx /m/0c1q0","/m/045xx /m/0h1c1_r","/m/045xx /m/0ll3j1m","/m/045xx /m/0plsktv","/m/045xx /m/0ytc","/m/05pgj9 /m/0c1q0","/m/05pgj9 /m/0h1c1_r","/m/05pgj9 /m/0ll3j1m","/m/05pgj9 /m/0plsktv","/m/05pgj9 /m/0ytc","/m/0c1q0 /m/0h1c1_r","/m/0c1q0 /m/0ll3j1m","/m/0c1q0 /m/0plsktv","/m/0c1q0 /m/0ytc","/m/0h1c1_r /m/0ll3j1m","/m/0h1c1_r /m/0plsktv","/m/0h1c1_r /m/0ytc","/m/0ll3j1m /m/0plsktv","/m/0ll3j1m /m/0ytc","/m/0plsktv /m/0ytc"],"id":"US_lnk_QTCGDgEwAADGjM_en","title":"Cristiano Ronaldo, Juventus F.C., Serie A, Rui Costa, UEFA Champions League, A.S. Roma, Andrea Pirlo, Jordan Veretout, Adrien Rabiot, Paulo Fonseca","entityNames":["Cristiano Ronaldo","Juventus F.C.","Serie A","Rui Costa","UEFA Champions League","A.S. Roma","Andrea Pirlo","Jordan Veretout","Adrien Rabiot","Paulo Fonseca"]},{"image":{"newsUrl":"https://929theticket.com/caa-working-2021-spring-football-schedule/","source":"929theticket.com","imgUrl":"//t0.gstatic.com/images?q=tbn:ANd9GcTo4Tkyqbvwc393yVv1BUIKk2_9MztmSUP-FSb2sJKvRa4dGoMqaI5XHrKkmEfNri5_lMuDabQrL-s"},"shareUrl":"https://trends.google.com/trends/trendingsearches/realtime?id=US_lnk_NeSDDgEwAAC3WM_en&category=all&geo=US#US_lnk_NeSDDgEwAAC3WM_en","articles":[{"articleTitle":"CAA Working 2021 Spring Football Schedule","url":"https://929theticket.com/caa-working-2021-spring-football-schedule/","source":"929theticket.com","time":"3 hours ago","snippet":"The Colonial Athletic Association is working on plans to hold their football season this spring. The league released details about when they can begin and how."},{"articleTitle":"CAA football to play six-game league season in the spring","url":"https://www.thereporteronline.com/sports/caa-football-to-play-six-game-league-season-in-the-spring/article_16b8f86f-f99f-55f1-914e-b1652ff29e66.html","source":"The Reporter","time":"9 hours ago","snippet":"The Colonial Athletic Association'
+                                s spring football season will consist of six league games with an option to play two nonconference games against league opponents,
+                                the league announced Wednesday.
+                                "}],"
+                                idsForDedup ":[" / g / 11 b77d6b6f / g / 11 ckvkm8wc "," / g / 11 b77d6b6f / m / 032 vgc "," / g / 11 b77d6b6f / m / 0 jm_ "," / g / 11 ckvkm8wc / m / 032 vgc "," / g / 11 ckvkm8wc / m / 0 jm_ "," / m / 032 vgc / m / 0 jm_ "],"
+                                id ":"
+                                US_lnk_NeSDDgEwAAC3WM_en ","
+                                title ":"
+                                NCAA Colonial Athletic Association Conference Football,
+                                2021,
+                                American football,
+                                Sports league ","
+                                entityNames ":["
+                                NCAA Colonial Athletic Association Conference Football ","
+                                2021 ","
+                                American football ","
+                                Sports league "]}]},"
+                                date ":"
+                                Oct 1,
+                                2020 ","
+                                hideAllImages ":false}
